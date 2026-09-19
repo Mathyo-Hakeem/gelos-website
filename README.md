@@ -1,31 +1,51 @@
-# Gelos Enterprises Website
+Gelos Enterprises – Front-End Website
+This repository contains a responsive front-end website developed using HTML, CSS, and JavaScript. The project was completed as part of my Diploma of Information Technology and demonstrates practical front-end development skills, structured UI design, and component-based layout implementation.
 
-This is a responsive frontend website built using HTML, CSS, and JavaScript.
+Overview
+The website includes a responsive navigation system, a hero carousel, an accordion component for service offerings, and a structured company values section. A contact form with basic validation is also included to demonstrate interactive front-end behaviour.
 
-## 🔹 Features
-- Responsive navigation bar
-- Image carousel (hero section)
-- Accordion for company offerings
-- Company values section
-- Contact form with validation
+Features
+Responsive layout supporting desktop, tablet, and mobile devices
 
-## 🔹 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+Navigation bar with mobile menu toggle
 
-## 🔹 Project Structure
-- index.html → main page
-- css/style.css → styling
-- js/script.js → functionality
-- img/ → images
+Hero image carousel
 
-## 🔹 How to Run
-1. Download or clone the repository
-2. Open index.html in your browser
+Accordion component for service information
 
-## 🔹 Purpose
-This project was created as part of my Diploma of IT to practice frontend development and user interface design.
+Company values section with structured content
 
-## 🔹 Author
-Mathyo Hakeem
+Contact form with basic validation
+
+Semantic HTML structure for improved accessibility
+
+Technologies Used
+HTML5
+
+CSS3
+
+JavaScript
+
+Project Structure
+Code
+index.html
+/css
+    style.css
+/js
+    script.js
+/img
+    (project images)
+Running the Project
+Clone or download the repository.
+
+Open index.html in any modern browser.
+
+No additional setup or backend configuration is required.
+
+Purpose
+This project was developed to strengthen front-end development capabilities, focusing on responsive design, layout structure, and basic JavaScript functionality. It serves as a foundational portfolio piece demonstrating practical UI implementation and clean code organisation.
+
+Author
+Mathyo Hakeem  
+Junior Developer
+Sydney, Australia
