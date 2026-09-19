@@ -28,5 +28,5 @@ This repository contains a responsive front-end website developed using HTML, CS
 This project was developed as part of my Diploma of Information Technology to demonstrate practical front-end development skills, responsive design techniques, and structured UI implementation.
 
 ## 🔹 Author
-Mathyo Hakeem
+Mathyo Hakeem,
 Junior developer
