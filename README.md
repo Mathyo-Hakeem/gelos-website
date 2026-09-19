@@ -1,51 +1,32 @@
-Gelos Enterprises – Front-End Website
-This repository contains a responsive front-end website developed using HTML, CSS, and JavaScript. The project was completed as part of my Diploma of Information Technology and demonstrates practical front-end development skills, structured UI design, and component-based layout implementation.
+# Gelos Enterprises Website
 
-Overview
-The website includes a responsive navigation system, a hero carousel, an accordion component for service offerings, and a structured company values section. A contact form with basic validation is also included to demonstrate interactive front-end behaviour.
+This repository contains a responsive front-end website developed using HTML, CSS, and JavaScript.
 
-Features
-Responsive layout supporting desktop, tablet, and mobile devices
+## 🔹 Features
+- Fully responsive navigation bar
+- Hero image carousel
+- Accordion component for service offerings
+- Company values section with structured layout
+- Contact form with basic client-side validation
 
-Navigation bar with mobile menu toggle
+## 🔹 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-Hero image carousel
+## 🔹 Project Structure
+- index.html → main application page  
+- css/style.css → styling and layout  
+- js/script.js → interactive functionality  
+- img/ → project images and assets  
 
-Accordion component for service information
+## 🔹 How to Run
+1. Download or clone the repository  
+2. Open `index.html` in any modern browser  
 
-Company values section with structured content
+## 🔹 Purpose
+This project was developed as part of my Diploma of Information Technology to demonstrate practical front-end development skills, responsive design techniques, and structured UI implementation.
 
-Contact form with basic validation
-
-Semantic HTML structure for improved accessibility
-
-Technologies Used
-HTML5
-
-CSS3
-
-JavaScript
-
-Project Structure
-Code
-index.html
-/css
-    style.css
-/js
-    script.js
-/img
-    (project images)
-Running the Project
-Clone or download the repository.
-
-Open index.html in any modern browser.
-
-No additional setup or backend configuration is required.
-
-Purpose
-This project was developed to strengthen front-end development capabilities, focusing on responsive design, layout structure, and basic JavaScript functionality. It serves as a foundational portfolio piece demonstrating practical UI implementation and clean code organisation.
-
-Author
-Mathyo Hakeem  
-Junior Developer
-Sydney, Australia
+## 🔹 Author
+Mathyo Hakeem
+Junior developer
